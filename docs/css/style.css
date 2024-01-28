@@ -446,6 +446,12 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 30px;
 }
 
+.event-col-100 {
+  width: 100%;
+  float: left;
+  margin-bottom: 30px;
+}
+
 #fh5co-counter {
   height: 600px;
 }
