@@ -1333,6 +1333,23 @@ form label {
   margin-bottom: 10px;
 }
 
+.feature-left .feature-copy-white {
+  float: left;
+  width: 80%;
+}
+@media screen and (max-width: 768px) {
+  .feature-left .feature-copy-white {
+    width: 70%;
+    float: left;
+  }
+}
+.feature-left .feature-copy-white h3 {
+  text-transform: uppercase;
+  font-size: 18px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
 #fh5co-started {
   position: relative;
 }
